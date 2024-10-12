@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Kekan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ6NzA1YThpc3o1a251bDh5djFkcTJ3Z3pxYTBldXYyZ2cwbTIycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/baby-koding-baby-baby-boy-code-coding-gif-24678193">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkekan&label=Profile%20views&color=0e75b6&style=flat" alt="omkekan" /> </p>
 

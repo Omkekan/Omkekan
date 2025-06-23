@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Kekan</h1>
+<h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="center">A passionate Cybersecurity & AIML Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdqOHN5OHRxZjVvMDMzcDR4Ynpzb2Jpd2ZvdzNqcTY3b3Rzb3ZuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkRQ24mPZ1HvHj9pZ6/giphy.gif">
 

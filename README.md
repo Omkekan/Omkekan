@@ -7,8 +7,7 @@
 - 📫 How to reach me **omkekan27@gmail.com**
 
 - ⚡ Fun fact **I'm also a musician**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 

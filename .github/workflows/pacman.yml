@@ -2,7 +2,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 1 * *" # Runs daily at midnight
   workflow_dispatch: # Allows you to run it manually
   push:
     branches:

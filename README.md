@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omkekan27@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1LpOhyBrdUhYC-B8H7LEnWgQ8QoSvZZx4/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10pxfcXJ2zUWe_RQQYYoXOEcIf4lrAi3s/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Musician**
 

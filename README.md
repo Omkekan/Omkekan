@@ -2,11 +2,9 @@
 
 <img src="assets/matrix-rain.svg" alt="Om Kekan - AI/ML Engineer. Animated character rain that scatters away from a moving cursor." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=bold&size=22&pause=1000&color=A3B68A&center=true&width=800&lines=%3E+Explore+network_ports...;%3E+Initializing+telemetry...;%3E+System+Ready_" alt="Typing animation" />
+<img src="assets/typing.svg" alt="Building self-correcting RAG pipelines. System Ready." width="100%" />
 
 </div>
-
-<br>
 
 ```text
 om_kekan_studio@root:~$ tree ./system
@@ -31,25 +29,13 @@ om_kekan_studio@root:~$ tree ./system
 3 directories, 11 files
 ```
 
-<br>
-
-<div align="center">
-
-### `> CAT about_me.txt`
-
-</div>
-
-I build ML systems that **check their own work**: self-correcting RAG pipelines, hallucination guardrails, and risk-prioritization engines that hold up outside a demo.
-
-Most RAG and agent systems ship on vibes, a handful of prompts that looked good once. I build the evaluation harness first (relevance grading, hallucination checks, retry logic) because reliability should be measured, not assumed.
-
-**Currently:** building multi-agent evaluation frameworks to quantify agent reliability instead of eyeballing transcripts.
+<img src="assets/terminal-about.svg" alt="Terminal: whoami, focus and status of Om Kekan" width="100%" />
 
 <br>
 
-<div align="center">
+<img src="assets/h-stack.svg" alt="om@kekan:~$ ./load_stack.sh --verbose" width="100%" />
 
-### `> EXECUTE render_graphics.bat`
+<div align="center">
 
 <img src="https://img.shields.io/badge/PYTHON-A3B68A?style=for-the-badge&logo=python&logoColor=1A1C1A&labelColor=A3B68A" alt="Python" />
 <img src="https://img.shields.io/badge/PYTORCH-A3B68A?style=for-the-badge&logo=pytorch&logoColor=1A1C1A&labelColor=A3B68A" alt="PyTorch" />
@@ -66,11 +52,7 @@ Most RAG and agent systems ship on vibes, a handful of prompts that looked good 
 
 <br>
 
-<div align="center">
-
-### `> LS ~/projects`
-
-</div>
+<img src="assets/h-projects.svg" alt="om@kekan:~$ ls -la ~/projects" width="100%" />
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
@@ -79,16 +61,26 @@ Most RAG and agent systems ship on vibes, a handful of prompts that looked good 
 
 <br>
 
-<div align="center">
+<img src="assets/h-pipeline.svg" alt="om@kekan:~$ ./rag-agent --trace" width="100%" />
 
-### `> FETCH telemetry.dat`
+<img src="assets/pipeline.svg" alt="Animated trace of the RAG agent: retrieve, grade, rewrite query, generate, verify, regenerate, answer" width="100%" />
+
+<br>
+
+<img src="assets/h-telemetry.svg" alt="om@kekan:~$ fetch telemetry.dat" width="100%" />
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=omkekan&show_icons=true&bg_color=1A1C1A&title_color=D3B58D&text_color=A3B68A&icon_color=8AB6A3&border_color=2A2D2A&border_radius=0" height="170" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=omkekan&background=1A1C1A&ring=D3B58D&fire=D3B58D&currStreakNum=A3B68A&sideNums=A3B68A&currStreakLabel=D3B58D&sideLabels=D3B58D&dates=5C6356&border=2A2D2A&border_radius=0" height="170" alt="GitHub Streak" />
 
-<br><br>
+</div>
 
-### `> PING external_ports.exe`
+<br>
+
+<img src="assets/h-ports.svg" alt="om@kekan:~$ ping external_ports.exe" width="100%" />
+
+<div align="center">
 
 <a href="https://linkedin.com/in/omkekan"><img src="https://img.shields.io/badge/LINKEDIN-A3B68A?style=for-the-badge&logo=linkedin&logoColor=1A1C1A&labelColor=A3B68A" alt="LinkedIn" /></a>
 <a href="https://medium.com/@omkekan27"><img src="https://img.shields.io/badge/MEDIUM-A3B68A?style=for-the-badge&logo=medium&logoColor=1A1C1A&labelColor=A3B68A" alt="Medium" /></a>
@@ -97,3 +89,7 @@ Most RAG and agent systems ship on vibes, a handful of prompts that looked good 
 <a href="https://drive.google.com/file/d/10pxfcXJ2zUWe_RQQYYoXOEcIf4lrAi3s/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD_RESUME-A3B68A?style=for-the-badge&logo=google-drive&logoColor=1A1C1A&labelColor=A3B68A" alt="Resume" /></a>
 
 </div>
+
+<br>
+
+<img src="assets/h-exit.svg" alt='om@kekan:~$ echo "thanks for stopping by" && exit 0' width="100%" />

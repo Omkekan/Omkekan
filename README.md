@@ -44,9 +44,9 @@
 <p align="center">
 <a href="https://linkedin.com/in/omkekan"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>
 <a href="https://medium.com/@omkekan27"><img src="assets/btn-medium.svg" alt="Medium" height="40" /></a>
-<a href="https://www.youtube.com/@the.omvibe"><img src="assets/btn-youtube.svg" alt="YouTube" height="40" /></a>
+<a href="https://www.youtube.com/@Om.AudioOfficial"><img src="assets/btn-youtube.svg" alt="YouTube" height="40" /></a>
 <a href="mailto:omkekan27@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="40" /></a>
-<a href="https://drive.google.com/file/d/10pxfcXJ2zUWe_RQQYYoXOEcIf4lrAi3s/view?usp=sharing"><img src="assets/btn-resume.svg" alt="Resume" height="40" /></a>
+<a href="https://drive.google.com/file/d/1TW_2NUXqNkJrAQPcBB_0sC6bM7aWNE6X/view?usp=drive_link"><img src="assets/btn-resume.svg" alt="Resume" height="40" /></a>
 </p>
 
 <br>

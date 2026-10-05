@@ -30,7 +30,7 @@
 <img src="assets/h-ports.svg" alt="om@kekan:~$ ping external_ports.exe" width="100%" />
 
 <p align="center">
-<a href="https://YOUR-PORTFOLIO-URL"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40" /></a>
+<a href="https://omkekan.github.io/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40" /></a>
 <a href="https://linkedin.com/in/omkekan"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>
 <a href="https://medium.com/@omkekan27"><img src="assets/btn-medium.svg" alt="Medium" height="40" /></a>
 <a href="https://www.youtube.com/@the.omvibe"><img src="assets/btn-youtube.svg" alt="YouTube" height="40" /></a>

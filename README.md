@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Omkekan&show_icons=true&bg_color=1A1C1A&title_color=D3B58D&text_color=A3B68A&icon_color=8AB6A3&border_color=2A2D2A&border_radius=6" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkekan&layout=compact&langs_count=6&bg_color=1A1C1A&title_color=D3B58D&text_color=A3B68A&border_color=2A2D2A&border_radius=6" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkekan&layout=compact&langs_count=8&bg_color=1A1C1A&title_color=D3B58D&text_color=A3B68A&border_color=2A2D2A&border_radius=6" height="165" alt="Top languages" />
 </p>
 
 <p align="center">

@@ -22,7 +22,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-        run: python assets/telemetry.py
+        run: |
+          if [ -f ".github/scripts/telemetry.py" ]; then
+            python .github/scripts/telemetry.py
+          elif [ -f "assets/telemetry.py" ]; then
+            mkdir -p .github/scripts
+            cp assets/telemetry.py .github/scripts/telemetry.py
+            python .github/scripts/telemetry.py
+          else
+            echo "telemetry.py not found in repository"
+            find . -maxdepth 3 -name "telemetry.py"
+            exit 1
+          fi
 
       - name: Commit if changed
         run: |

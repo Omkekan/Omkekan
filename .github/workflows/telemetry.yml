@@ -2,8 +2,8 @@ name: Update telemetry
 
 on:
   schedule:
-    - cron: "17 */12 * * *"   # twice a day
-  workflow_dispatch:           # lets you run it by hand from the Actions tab
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-        run: python .github/scripts/telemetry.py
+        run: python assets/telemetry.py
 
       - name: Commit if changed
         run: |
